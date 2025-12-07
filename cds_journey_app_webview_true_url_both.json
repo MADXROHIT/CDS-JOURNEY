@@ -1,0 +1,10 @@
+{
+  "url": "https://spidycds.netlify.app/new",
+  "selectionway_url": "https://vipcds.netlify.app",
+  "dashboard_url": "https://example.com/dashboard",
+  "offers_url": "https://example.com/offers",
+  "profile_url": "https://example.com/profile",
+
+  "force_update": false,
+  "message": "aab padh lee !"
+}
